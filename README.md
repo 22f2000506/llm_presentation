@@ -25,8 +25,7 @@ Cookie Deck is a lightweight web app that lets anyone paste long-form text (mark
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/23f1000805/tds-bonus-project-Auto-PPT-Generator-Cookie-Deck.git
-cd tds-bonus-project-Auto-PPT-Generator-Cookie-Deck
+https://github.com/22f2000506/llm_presentation
 ```
 
 ### 2. Install dependencies
@@ -92,4 +91,5 @@ This app works out-of-the-box on cloud platforms. Just connect your repo and dep
 ## 📄 License
 
 MIT License – free to use, modify, and share.
+
 
